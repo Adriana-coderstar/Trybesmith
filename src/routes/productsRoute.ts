@@ -3,10 +3,10 @@ import { Router } from 'express';
 import productController from '../controllers/productController';
 import productValidate from '../middlewares/productValidate';
 
-const routes = Router();
+const productRoutes = Router();
 
-routes.get('/', productController.getProducts);
+productRoutes.get('/', productController.getProducts);
 
-routes.post('/', productValidate, productController.addProducts);
+productRoutes.post('/', productValidate, productController.addProducts);
 
-export default routes;
+export default productRoutes;

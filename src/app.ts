@@ -1,11 +1,14 @@
 import 'dotenv/config';
 import express from 'express';
-import routes from './routes/productsRoute';
+import productRoutes from './routes/productsRoute';
+import userRoutes from './routes/usersRoute';
 
 const app = express();
 
 app.use(express.json());
 
-app.use('/products', routes);
+app.use('/products', productRoutes);
+
+app.use('/users', userRoutes);
 
 export default app;
