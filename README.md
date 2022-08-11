@@ -42,7 +42,8 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
     <strong> ⚠ Configurando variável de ambiente: </strong>
   </summary><br>
   
- - Modificar o arquivo .env.example para .env
+ - Modificar o arquivo env.example para .env
+ 
  - Alterar DATABASE_URL="mysql://`USER:PASSWORD`@`localhost`:`PORT`/`NAME_DATABASE`"
  </details>
  
@@ -116,6 +117,6 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
    <strong> :rocket: Tecnologias utilizadas:</strong>
   </summary><br>
   
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs"       width="40" height="40"/> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="prisma"  width="40" height="40"/> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank"   rel="noreferrer"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a   href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodejs"       width="40" height="40"/>  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"></a> <img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" alt="prisma"  width="40" height="40"/> <a href="https://git-scm.com/" target="_blank"   rel="noreferrer"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <a   href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
  
  </details>
