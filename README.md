@@ -41,7 +41,7 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
     <strong> ⚠ Configurando variável de ambiente: </strong>
   </summary><br>
   
- - Modificar o arquivo env.example para .env
+ - Modificar o arquivo `env.example` para `.env`
  
  - Alterar DATABASE_URL="mysql://`USER:PASSWORD`@`localhost`:`PORT`/`NAME_DATABASE`"
  </details>
