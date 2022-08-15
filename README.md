@@ -2,11 +2,10 @@
 
 Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delete_) de itens medievais, no formato de uma _API_, utilizando _Typescript_, criando alguns _endpoints_ que irão ler e escrever em um banco de dados, utilizando o **MySQL**.
 
----
 
 <details>
   <summary>
-    <strong> 👨‍💻 Habilidades exercida: </strong>
+    <strong> 👩‍💻 Habilidades exercida: </strong>
   </summary><br>
 
 
@@ -22,7 +21,7 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
 
 </details>
 
----
+
 <details>
   <summary>
     <strong> ⌨️ Clone do repositório </strong>
@@ -36,7 +35,7 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
     
  </details>
 
----
+
 <details>
   <summary>
     <strong> ⚠ Configurando variável de ambiente: </strong>
@@ -47,7 +46,7 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
  - Alterar DATABASE_URL="mysql://`USER:PASSWORD`@`localhost`:`PORT`/`NAME_DATABASE`"
  </details>
  
- ---
+ 
  
  <details>
   <summary>
@@ -63,7 +62,7 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
     
  </details>
  
- ---
+ 
  <details>
   <summary>
     <strong> :mag_right: Observações: </strong>
@@ -107,9 +106,6 @@ Para este projeto, foi desenvolvido um **CRUD** (_Create, Read, Update_ e _Delet
  ```
 
 </details>
-
- 
- ---
  
  
  <details>
